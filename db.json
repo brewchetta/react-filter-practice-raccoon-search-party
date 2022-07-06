@@ -1,0 +1,39 @@
+{
+  "raccoons": [
+    {
+      "id": 1,
+      "name": "Cooper",
+      "image": "https://curiodyssey.org/wp-content/uploads/2017/03/Mammals-Raccoon.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sly",
+      "image": "https://www.tn.gov/content/dam/tn/twra/images/mammals/raccoon/raccoon_750x500.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fluffles",
+      "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/15015/production/_95173068_racoon.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bandit",
+      "image": "https://i.cbc.ca/1.5476575.1582734257!/cumulusImage/httpImage/raccoon-in-dumpster.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Marsly",
+      "image": "https://squeaksandnibbles.com/wp-content/uploads/2021/08/Raccoon-Names-SN-long.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Stranger Danger",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2016/08/20130220_013143_raccoon-copy.jpg?w=640"
+    },
+    {
+      "id": 7,
+      "name": "Coop Jr.",
+      "image": "https://winnebagoanimals.org/wp-content/uploads/2021/08/Raccoon.jpg"
+    }
+  ]
+}
