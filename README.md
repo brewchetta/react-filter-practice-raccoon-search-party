@@ -18,4 +18,4 @@ Set up the `RaccoonForm` so that you can create a new raccoon with a name and im
 
 ## Deliverable Three
 
-Set up the `Search` component so that when someone types something in, raccoons appear whose name includes the search term.
+Set up the `Search` component so that when someone types something in, only raccoons whose name includes the search term are shown.
